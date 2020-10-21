@@ -2,10 +2,10 @@
 //
 // SPDX-License-Identifier: Apache-2.0
 
-module github.com/chrainwang/fabric-sdk-go
+module github.com/hyperledger/fabric-sdk-go
 
 require (
-	github.com/hyperledger/fabric-sdk-go v1.0.0-beta3
+	// github.com/hyperledger/fabric-sdk-go v1.0.0-beta3
 
 	github.com/Knetic/govaluate v3.0.0+incompatible
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
